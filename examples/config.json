@@ -1,0 +1,10 @@
+{
+	"backend": "ollama",
+	"model": "qwen3:32b",
+	"url": "http://localhost:11434",
+	"rounds": 2,
+	"max_history": 20,
+	"personas": ["pragmatist", "contrarian"],
+	"output_file": "output.md",
+	"log_file": "debate.log"
+}
